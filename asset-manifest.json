@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CounterApplication-and-Controlled_form/static/css/main.213c37e9.css",
+    "main.js": "/CounterApplication-and-Controlled_form/static/js/main.5ed965d8.js",
+    "static/js/787.0420ccf9.chunk.js": "/CounterApplication-and-Controlled_form/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/CounterApplication-and-Controlled_form/index.html",
+    "main.213c37e9.css.map": "/CounterApplication-and-Controlled_form/static/css/main.213c37e9.css.map",
+    "main.5ed965d8.js.map": "/CounterApplication-and-Controlled_form/static/js/main.5ed965d8.js.map",
+    "787.0420ccf9.chunk.js.map": "/CounterApplication-and-Controlled_form/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213c37e9.css",
+    "static/js/main.5ed965d8.js"
+  ]
+}
